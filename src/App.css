@@ -1,0 +1,13 @@
+.app {
+	text-align: center;
+	height: 100vh;
+}
+
+.app-content {
+	max-width: 750px;
+	margin: 0 auto;
+	padding: 20px;
+}
+
+
+
