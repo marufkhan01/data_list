@@ -19,6 +19,7 @@ class App extends Component {
         .catch(error => console.log(error))
 
       }
+
   
   render() {
 
@@ -38,7 +39,8 @@ class App extends Component {
 
               <ul className="list-group">
                 { users.map( user =>
-                <li key = { user.id }  className="list-group-item">{ user.name }</li>)}                   
+                <li key = { user.id }  className="list-group-item">{ user.name }
+                </li>)}                   
               </ul>
 
                 <br></br>

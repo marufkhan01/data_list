@@ -1,8 +1,7 @@
-# Chat APP
+# Data List
 
 # Technolgies:
 
 --- React 
---- Using React 
 
 
